@@ -38,3 +38,9 @@ body
 {
     font-size: 20px;
 }
+
+#footer
+{
+    text-align: center;
+    background-color: aquamarine;
+}
